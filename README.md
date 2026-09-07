@@ -35,9 +35,9 @@ Explore the Titanic dataset using statistical summaries and visualizations to id
 - Cabin had 687 missing values, so cabin numbers were not artificially imputed; a `CabinAvailable` indicator was created instead.
 
 ## Files
-- `Task_5_Titanic_EDA_Final.ipynb` — final annotated Jupyter Notebook
-- `Titanic_EDA_Report.pdf` — PDF report of findings
-- `titanic-dataset.csv` — source dataset (upload your original CSV to GitHub if permitted)
+- `Task_5_Titanic_EDA_Final.ipynb` 
+- `Titanic_EDA_Report.pdf` 
+- `titanic-dataset.csv`
 
 ## Conclusion
 The EDA indicates that gender and passenger class were the strongest visible factors associated with survival in the Titanic dataset. The analysis also demonstrates the importance of handling missing values and outliers carefully before further statistical or machine-learning work.
